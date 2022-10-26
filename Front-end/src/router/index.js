@@ -3,6 +3,7 @@ import landingPage from '../views/landingPage.vue'
 import authPage from '../views/authPage.vue'
 import welcomePage from '../views/welcomePage.vue'
 import userPage from '../views/userPage.vue'
+import createTaskPage from '../views/createTaskPage.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -31,6 +32,11 @@ const router = createRouter({
       path: '/myTasks',
       name: 'userPage',
       component: userPage
+    },
+    {
+      path: '/createTask',
+      name: 'createTaskPage',
+      component: createTaskPage
     },
   ]
 })
