@@ -133,3 +133,30 @@ npm run dev
 
 ## Gallery
 
+### Landing page
+
+![image](https://user-images.githubusercontent.com/82982361/198123019-91fd26f8-12a3-4b5e-9725-bac178ae57fe.png)
+
+### Login page
+
+![image](https://user-images.githubusercontent.com/82982361/198123240-7aff784f-c30d-492c-b760-4f6a676d753f.png)
+
+### Registration page
+
+![image](https://user-images.githubusercontent.com/82982361/198123316-1025d245-c262-49d1-b5b7-97000c6e9a8f.png)
+
+### Welcome page
+
+![image](https://user-images.githubusercontent.com/82982361/198123550-c98f7045-52d6-4193-8945-680cae10692e.png)
+
+### User page
+
+![image](https://user-images.githubusercontent.com/82982361/198124085-1740548b-b6dc-4bf3-97eb-f281099a8273.png)
+
+### Task creation page
+
+![image](https://user-images.githubusercontent.com/82982361/198124230-b9bfe62b-8461-43d2-b6bf-278708691c35.png)
+
+
+
+
